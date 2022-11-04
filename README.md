@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋🏻‍♂️, I'm Sourav</h1>
 <h3 align="center">A BTech student passionate in Java language. Currently grooming skills in android development and Spring framework.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravsahoo08" alt="souravsahoo08" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravsahoo08" alt="souravsahoo08" /></a> </p>
 
 - 🌱 I’m currently learning 
    * **Spring framework.**
