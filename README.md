@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋🏻‍♂️, I'm Sourav</h1>
-<h3 align="center">A B.Tech student passionate in Java language.<br>Currently grooming skills in android development and Spring framework.<hr>🤝 I’m looking for help with Spring framework.</h3>
+<h3 align="center">A B.Tech graduate, passionate in Java language.<br>Currently grooming skills in android development and Spring framework.<hr>🤝 I’m looking for help with Spring framework.</h3>
 
 
 # 💻 Tech Stack:
