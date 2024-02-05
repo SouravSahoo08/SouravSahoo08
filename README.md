@@ -3,21 +3,22 @@
 
 
 # 💻 Tech Stack:
-</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="java" width="60" height="60"/>
+<!--</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="java" width="60" height="60"/>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354379/spring.svg" alt="spring" width="60" height="60"/> </a> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353395/android.svg" alt="android" width="60" height="60"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="60" height="60"/> </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353528/c.svg" alt="C" width="50" height="50"/>
-
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353528/c.svg" alt="C" width="50" height="50"/>
+-->
+[![My Skills](https://skillicons.dev/icons?i=java,spring,androidstudio,mysql,js,html,css)](https://skillicons.dev)
   
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravsahoo08&show_icons=true&locale=en" alt="souravsahoo08" /></p>    
 
 <!--![](https://github-readme-stats.vercel.app/api?username=SouravSahoo08&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SouravSahoo08&theme=chartreuse-dark&hide_border=false)<br/> -->
+
+[![Sourav's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SouravSahoo08&show_icons=true&theme=chartreuse-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SouravSahoo08&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-    
-
-
 
 <!--
 previous readme file
