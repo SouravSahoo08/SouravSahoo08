@@ -16,7 +16,7 @@
 <!--![](https://github-readme-stats.vercel.app/api?username=SouravSahoo08&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SouravSahoo08&theme=chartreuse-dark&hide_border=false)<br/> -->
 
-[![Sourav's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SouravSahoo08&show_icons=true&theme=chartreuse-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Sourav's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SouravSahoo08&show_icons=true&theme=chartreuse-dark#gh-dark-mode-only)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SouravSahoo08&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
