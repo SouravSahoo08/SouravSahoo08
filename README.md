@@ -1,39 +1,38 @@
-<h1 align="center">Hi 🙋🏻‍♂️, I'm Sourav</h1>
-<h3 align="center">A B.Tech graduate, passionate in Java language.<br>Currently grooming skills in android development and Spring framework.<hr>🤝 I’m looking for help with Spring framework.</h3>
+<p align=center><img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" width=50%></p>
+<h1 align=center>
+    <strong> Hi 👋, I'm Sourav Sahoo </strong> 
+</h1>
 
+<br>
+
+## 🧑‍💻 About Me:
+- 🌱 Currently delving into Java Backend development.
+- 🔭 Exploring and creating Springboot projects.
+- 🎨 Enthusiastic about community involvement.
+
+<br>
+
+## 🤝 Connect with me:
+<a href="https://www.linkedin.com/in/souravkumarsahoo08/"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/linkedin.png" alt="Sourav sahoo | LinkedIn" width=40px;/>
+</a>
+
+<br>
+<br>
+<br>
 
 # 💻 Tech Stack:
-<!--</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="java" width="60" height="60"/>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354379/spring.svg" alt="spring" width="60" height="60"/> </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353395/android.svg" alt="android" width="60" height="60"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="60" height="60"/> </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353528/c.svg" alt="C" width="50" height="50"/>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353528/c.svg" alt="C" width="50" height="50"/>
--->
 [![My Skills](https://skillicons.dev/icons?i=java,spring,androidstudio,mysql,js,html,css)](https://skillicons.dev)
-  
+
+<br>
+<br>
+
 # 📊 GitHub Stats:
+<div style="display: flex;">
+    <div style="margin-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravSahoo08&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=SouravSahoo08&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SouravSahoo08&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
+    </div>
+</div>
+<br>
 
-<!--![](https://github-readme-stats.vercel.app/api?username=SouravSahoo08&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SouravSahoo08&theme=chartreuse-dark&hide_border=false)<br/> -->
-
-![Sourav's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SouravSahoo08&show_icons=true&theme=chartreuse-dark#gh-dark-mode-only)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SouravSahoo08&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!--
-previous readme file
-
-<h1 align="center">Hi 🙋🏻‍♂️, I'm Sourav</h1>
-<h3 align="center">A BTech student passionate in Java language. Currently grooming skills in android development and Spring framework.</h3>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravsahoo08" alt="souravsahoo08" /></a> </p>
-
-- 🌱 I’m currently learning 
-   * **Spring framework.**
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/785/145/png-clipart-java-development-kit-software-development-kit-computer-programming-computer-icons-programming-language-icon-text-logo-thumbnail.png" alt="java" width="40" height="40"/> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravsahoo08&show_icons=true&locale=en" alt="souravsahoo08" /></p>
--->
